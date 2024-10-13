@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.11" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.8.0 (sftp://yangluo@10.120.16.3:22/data/yangluo/anaconda/anaconda3/envs/pytorch180/bin/python3.8)" project-jdk-type="Python SDK" />
+</project>
